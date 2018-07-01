@@ -1,0 +1,48 @@
+.container {
+    position: relative;
+}
+
+
+.center {
+    position: relative;
+    
+    top: 50%;
+    width: 1000%;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+
+.img { 
+    width: 300px;
+    height: 300px;
+    opacity: 0.3;
+
+}
+
+
+
+
+.navbar-header{
+    position: relative;
+}
+
+.topright {
+    position: absolute;
+    top: 20px;
+   left: 16px;
+    font-size: 18px;
+}
+
+
+.glyphicon-user{ 
+    width: 500%;
+    height: auto;
+    opacity: 0.3;
+}
+.glyphicon-log-in{ 
+    width: 500%;
+    height: auto;
+    opacity: 0.3;
+}
